@@ -329,7 +329,8 @@ Music			file.txt		xgen
 Write the command(s) (including going home) that you used to do this below:
 ----------
 
-
+cd ~
+cd mtec1003-lab-03/books/science-fiction/
 
 ==========
 11.  Write the files that are in the science fiction directory below.
@@ -337,14 +338,14 @@ Write the command(s) (including going home) that you used to do this below:
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
 
-
-
+ls
+pg84.txt	pg86.txt
 ==========
 12.  Again, go back to your home directory.  Now... go to the science-fiction directory using an absolute path!  Verify that you're in the right directory using pwd.
 
 Write the command(s) that you used to do this below:
 ----------
-
+cd /Users/student/mtec1003-lab-03/books/science-fiction/
 ==========
 OPTIONAL
 13. Immediately change back to the mtec1002-lab-03 folder with a single command using a *relative* path.
